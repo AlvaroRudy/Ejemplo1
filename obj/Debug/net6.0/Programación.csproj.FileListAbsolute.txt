@@ -1,0 +1,15 @@
+C:\Users\alvar\Desktop\Programación\bin\Debug\net6.0\Programación.exe
+C:\Users\alvar\Desktop\Programación\bin\Debug\net6.0\Programación.deps.json
+C:\Users\alvar\Desktop\Programación\bin\Debug\net6.0\Programación.runtimeconfig.json
+C:\Users\alvar\Desktop\Programación\bin\Debug\net6.0\Programación.dll
+C:\Users\alvar\Desktop\Programación\bin\Debug\net6.0\Programación.pdb
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.AssemblyInfo.cs
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.dll
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\refint\Programación.dll
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.pdb
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\Programación.genruntimeconfig.cache
+C:\Users\alvar\Desktop\Programación\obj\Debug\net6.0\ref\Programación.dll
